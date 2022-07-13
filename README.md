@@ -1,0 +1,1 @@
+First project for TOP (The Odin Project) Foundations Course. This project is going to work some basic HTML skills for now, and it's going to be revisited in the future in order to apply CSS in it.
